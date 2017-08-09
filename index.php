@@ -1,9 +1,9 @@
 <<!DOCTYPE html>
 <html>
 <head>
-	<title>fosycsa</title>
+	<title>open</title>
 </head>
 <body>
-<h1>hola</h1>
+<h1>hola prueba bluetooth</h1>
 </body>
 </html>
